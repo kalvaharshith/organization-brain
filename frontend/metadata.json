@@ -1,0 +1,6 @@
+{
+  "name": "Nexus — Organizational Intelligence & RAG Mesh",
+  "description": "Enterprise organizational knowledge brain powered by Hindsight RAG, FastAPI runtime, and human-in-the-loop expert verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
